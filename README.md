@@ -1,1 +1,1 @@
-https://github.com/vledly/rsschool-cv/cv
+https://vledly.github.io/rsschool-cv/cv
